@@ -1,9 +1,7 @@
-<p>
-  <strong style="font-size: 2em;">
-    Hey there!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  </strong>
-</p>
+<h1 align="left" style="border-bottom: none;">
+  Hey there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+</h1>
 
 I'm **Krishnendu**, an aspiring Engineer.
 
